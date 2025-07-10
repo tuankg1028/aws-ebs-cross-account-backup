@@ -4,7 +4,16 @@
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/bash/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
+> **Automate EBS snapshot creation and cross-account sharing for disaster recovery and data migration**
+
 A powerful and user-friendly bash script that automates the process of creating EBS snapshots from EC2 instances and sharing them across AWS accounts. Perfect for disaster recovery, data migration, and cross-account backups.
+
+## 📖 About This Project
+
+This tool was born out of the need to simplify and automate the complex process of backing up EC2 instances across AWS accounts. Whether you're implementing disaster recovery, migrating workloads, or ensuring compliance with backup policies, this script handles the heavy lifting while providing detailed logging and error handling.
+
+### 🏷️ Repository Topics
+`aws` `ebs` `snapshot` `backup` `cross-account` `disaster-recovery` `automation` `bash` `ec2` `migration` `devops` `infrastructure` `cloud`
 
 ## ✨ Features
 
@@ -185,13 +194,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - AWS CLI team for the excellent command-line interface
 - Community contributors and testers
 - AWS documentation team
+- Open source community for inspiration and feedback
+
+## 📈 Repository Stats
+
+![GitHub stars](https://img.shields.io/github/stars/tuankg1028/aws-ebs-cross-account-backup?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tuankg1028/aws-ebs-cross-account-backup?style=social)
+![GitHub issues](https://img.shields.io/github/issues/tuankg1028/aws-ebs-cross-account-backup)
+![GitHub last commit](https://img.shields.io/github/last-commit/tuankg1028/aws-ebs-cross-account-backup)
 
 ## 📞 Support
 
 - 🐛 [Report Bugs](https://github.com/tuankg1028/aws-ebs-cross-account-backup/issues)
 - 💡 [Request Features](https://github.com/tuankg1028/aws-ebs-cross-account-backup/issues)
 - 📧 [Email Support](mailto:lethanhtuan1028@gmail.com)
+- 💬 [Discussions](https://github.com/tuankg1028/aws-ebs-cross-account-backup/discussions)
+
+## 🌟 Show Your Support
+
+If this project helped you, please consider:
+- ⭐ Starring the repository
+- 🍴 Forking it for your own use
+- 📢 Sharing it with your network
+- 🐛 Reporting issues or suggesting improvements
 
 ---
 
-⭐ If this tool helped you, please consider giving it a star on GitHub!
+**Made with ❤️ for the AWS community** | **Free and Open Source** | **MIT Licensed**
