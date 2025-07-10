@@ -8,13 +8,6 @@
 
 A powerful and user-friendly bash script that automates the process of creating EBS snapshots from EC2 instances and sharing them across AWS accounts. Perfect for disaster recovery, data migration, and cross-account backups.
 
-## 📖 About This Project
-
-This tool was born out of the need to simplify and automate the complex process of backing up EC2 instances across AWS accounts. Whether you're implementing disaster recovery, migrating workloads, or ensuring compliance with backup policies, this script handles the heavy lifting while providing detailed logging and error handling.
-
-### 🏷️ Repository Topics
-`aws` `ebs` `snapshot` `backup` `cross-account` `disaster-recovery` `automation` `bash` `ec2` `migration` `devops` `infrastructure` `cloud`
-
 ## ✨ Features
 
 - 🔍 **Automatic Discovery**: Automatically discovers all EC2 instances in your AWS account
@@ -213,6 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌟 Show Your Support
 
 If this project helped you, please consider:
+
 - ⭐ Starring the repository
 - 🍴 Forking it for your own use
 - 📢 Sharing it with your network
