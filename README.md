@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 [Report Bugs](https://github.com/tuankg1028/aws-ebs-cross-account-backup/issues)
 - 💡 [Request Features](https://github.com/tuankg1028/aws-ebs-cross-account-backup/issues)
-- 📧 [Email Support](mailto:support@example.com)
+- 📧 [Email Support](mailto:lethanhtuan1028@gmail.com)
 
 ---
 
